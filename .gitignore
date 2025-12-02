@@ -1,0 +1,4 @@
+.env
+data/chat_logs
+data/raw
+data/vector_store
